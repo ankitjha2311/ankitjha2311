@@ -5,11 +5,11 @@ Fork on GitHub2696
 <h1 align="center">Hi 👋, I'm Ankit RAJ</h1>
 <h3 align="center">I am a Blockchain Developer and Data Scientist from India, Bihar</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitjha2311&label=Profile%20views&color=0e75b6&style=flat" alt="ankitjha2311" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ankitjha2311&label=Profile%20views&color=0e75b6&style=flat" alt="ankitjha2311" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitjha2311" alt="ankitjha2311" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitjha2311" alt="ankitjha2311" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/levoankit" target="blank"><img src="https://img.shields.io/twitter/follow/levoankit?logo=twitter&style=for-the-badge" alt="levoankit" /></a> </p>
+<p align="center"> <a href="https://twitter.com/levoankit" target="blank"><img src="https://img.shields.io/twitter/follow/levoankit?logo=twitter&style=for-the-badge" alt="levoankit" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [ankitrudra.tech](ankitrudra.tech)
 
