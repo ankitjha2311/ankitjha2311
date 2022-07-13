@@ -358,7 +358,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitjha2311&show_icons=true&locale=en" alt="ankitjha2311" /></p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitjha2311" alt="ankitjha2311" /></a> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitjha2311&" alt="ankitjha2311" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitjha2311&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="ankitjha2311" /></p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=timcreative&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
 
