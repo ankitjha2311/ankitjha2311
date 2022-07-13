@@ -1,6 +1,7 @@
 
-<p  align="center"><img src="https://github.com/ankitjha2311/ankitjha2311/blob/main/Blockchain-Color.gif" width="300" height="300" />
-  <img  src="https://github.com/ankitjha2311/ankitjha2311/blob/main/WhatsApp%20Image%202022-07-13%20at%207.29.06%20PM.jpeg" width="300" height="300" /></p>
+<p  align="center"><img src="https://github.com/ankitjha2311/ankitjha2311/blob/main/transBlockch.gif" width="300" height="300" />
+  <img  src="https://github.com/ankitjha2311/ankitjha2311/blob/main/avatar.jpeg" width="300" height="300" />
+   <img  src="https://github.com/ankitjha2311/ankitjha2311/blob/main/Ai.gif" width="300" height="300" /></p>
  
 <h1 align="center">Hi, I'm Ankit RAJ</h1>
 
