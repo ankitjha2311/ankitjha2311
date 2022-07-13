@@ -35,10 +35,10 @@
 <h2 align="center">📊 GitHub Stats:</h2>
 <p align="center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ankitjha2311&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="ankitjha2311"/>
-<img  src="https://github-readme-stats.vercel.app/api?username=ankitjha2311&show_icons=true&locale=en&theme=vue-dark" alt="ankitjha2311" />
+<img  src="https://github-readme-stats.vercel.app/api?username=ankitjha2311&show_icons=true&locale=en&theme=vue-dark&hide_border=true" alt="ankitjha2311" />
 </p>
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitjha2311&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"  />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitjha2311&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"  />
 </p>
 
 <h3 align="center">🏆 GitHub Trophies</h3>
@@ -46,6 +46,6 @@
 ##
 
 <p align="center">
-<img  src="https://github-profile-trophy.vercel.app/?username=ankitjha2311&theme=onedark&no-frame=true&no-bg=false&margin-w=4"  />
+<img  src="https://github-profile-trophy.vercel.app/?username=ankitjha2311&theme=onedark&no-frame=true&no-bg=false&margin-w=3"  />
 </p>
 
