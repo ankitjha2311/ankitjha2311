@@ -1,4 +1,4 @@
-<img align="center" alt="pic" src="https://github.com/ankitjha2311/ankitjha2311/blob/main/WhatsApp%20Image%202022-07-13%20at%207.29.06%20PM.jpeg" width="500" height="320" />
+<img align="center" alt="pic" src="https://github.com/ankitjha2311/ankitjha2311/blob/main/WhatsApp%20Image%202022-07-13%20at%207.29.06%20PM.jpeg" />
 <h1 align="center">Hi 👋, I'm Ankit RAJ</h1>
 
 <h3 align="center">I am a Blockchain Developer and Data Scientist from India, Bihar</h3>
