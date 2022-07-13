@@ -11,23 +11,7 @@
 </p>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ankitjha2311&label=Profile%20views&color=0e75b6&style=flat" alt="ankitjha2311" /> </p>
 
-<p align="center"> <a href="https://twitter.com/levoankit" target="blank"><img src="https://img.shields.io/twitter/follow/levoankit?logo=twitter&style=for-the-badge" alt="levoankit" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [ankitrudra.tech](ankitrudra.tech)
-
-- 📝 I regularly write articles on [Distributed Computing, Decentralization and Artificial Intelligence](Distributed Computing, Decentralization and Artificial Intelligence)
-
-- 📫 How to reach me **ankit1110kr@gmail.com**
-
-- 📄 Know about my experiences [ankitrudra.tech/home](ankitrudra.tech/home)
-
-- ⚡ Fun fact **I have a good vocal.**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
