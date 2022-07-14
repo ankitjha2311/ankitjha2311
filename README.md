@@ -84,14 +84,13 @@
 
 <h2 align="center">📊 GitHub Stats:</h2>
 <p align="center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ankitjha2311&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="ankitjha2311"/>
-<img  src="https://github-readme-stats.vercel.app/api?username=ankitjha2311&show_icons=true&locale=en&theme=vue-dark&hide_border=true" alt="ankitjha2311" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitjha2311&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitjha2311&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width=50% />
-<img  src="https://activity-graph.herokuapp.com/graph?username=ankitjha2311&theme=minimal-dark" width=50%  />
-
+<img  src="https://github-readme-stats.vercel.app/api?username=ankitjha2311&show_icons=true&locale=en&theme=vue-dark&hide_border=true" alt="ankitjha2311" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ankitjha2311&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="ankitjha2311"/>
 </p>
+
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 
