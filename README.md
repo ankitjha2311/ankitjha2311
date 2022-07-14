@@ -15,7 +15,9 @@
 <a href="https://twitter.com/LevoAnkit" target="blank"><img  src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" /></a>
 </p>
 
-<h2 align="center"> 💻 Tech Stack </h2>
+<details align="center">
+  <summary ><h2 > 💻 Tech Stack </h2></summary>
+
 
 ### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -80,9 +82,10 @@
 ###                                  DevOps
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+</details>
+<details align="center">
+  <summary ><h2 > 📊 GitHub Stats</h2></summary>
 
-
-<h2 align="center">📊 GitHub Stats:</h2>
 <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitjha2311&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
 </p>
