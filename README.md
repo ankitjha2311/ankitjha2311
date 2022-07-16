@@ -87,7 +87,7 @@
   <summary ><h2 > 📊 GitHub Stats</h2></summary>
 
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitjha2311&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitjha2311&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&" />
 </p>
 <p align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=ankitjha2311&show_icons=true&locale=en&theme=vue-dark&hide_border=true" alt="ankitjha2311" />
