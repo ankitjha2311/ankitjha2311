@@ -10,9 +10,12 @@
 
 
 <p align="center">
-<a href="https://linkedin.com/in/ankit-rudra-ashok-jha" target="blank"><img  src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-<a href="https://medium.com/@aeonaten" target="blank"><img  src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" /></a>
-<a href="https://twitter.com/LevoAnkit" target="blank"><img  src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white" /></a>
+<a href="https://linkedin.com/in/ankit-rudra-ashok-jha" target="blank"><img  src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="ankitrudra.tech" target="blank"><img  src="https://img.shields.io/badge/Website-161637?style=for-the-badge&logoColor=00e5ff" /></a>
+ <a href="https://medium.com/@aeonaten" target="blank"><img  src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+ <a href="https://medium.com/@aeonaten" target="blank"><img  src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white" /></a>
+ <a href="https://twitter.com/LevoAnkit" target="blank"><img  src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
+<a href="https://www.researchgate.net/profile/Ankit-Raj-37/" target="blank"><img  src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white" /></a>
 </p>
 
 <details align="center">
@@ -87,11 +90,11 @@
   <summary ><h2 > 📊 GitHub Stats</h2></summary>
 
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitjha2311&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitjha2311&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&" />
 </p>
 <p align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=ankitjha2311&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="ankitjha2311" />
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ankitjha2311&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="ankitjha2311"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=ankitjha2311&show_icons=true&locale=en&theme=vue-dark&hide_border=true" alt="ankitjha2311" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=ankitjha2311&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="ankitjha2311"/>
 </p>
 
 
@@ -100,6 +103,6 @@
 ##
 
 <p align="center">
-<img  src="https://github-profile-trophy.vercel.app/?username=ankitjha2311&theme=tokyonight&no-frame=true&no-bg=false&margin-w=5"  />
+<img  src="https://github-profile-trophy.vercel.app/?username=ankitjha2311&theme=onedark&no-frame=true&no-bg=false&margin-w=5"  />
 </p>
 
