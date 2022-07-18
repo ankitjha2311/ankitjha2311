@@ -1,5 +1,5 @@
 
-<p  align="left">
+<p  align="center">
 <img  src="https://github.com/ankitjha2311/ankitjha2311/blob/main/Ai.gif" width="250" height="250" />
 <img  src="https://github.com/ankitjha2311/ankitjha2311/blob/main/avatar-removebg-preview.png" width="250" height="250" />
 <img src="https://github.com/ankitjha2311/ankitjha2311/blob/main/transBlockch.gif" width="250" height="250" />
@@ -100,6 +100,6 @@
 ##
 
 <p align="center">
-<img  src="https://github-profile-trophy.vercel.app/?username=ankitjha2311&theme=onedark&no-frame=true&no-bg=false&margin-w=3"  />
+<img  src="https://github-profile-trophy.vercel.app/?username=ankitjha2311&theme=onedark&no-frame=true&no-bg=false&margin-w=5"  />
 </p>
 
