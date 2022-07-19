@@ -103,6 +103,6 @@
 ##
 
 <p align="center">
-<img  src="https://github-profile-trophy.vercel.app/?username=ankitjha2311&theme=onedark&no-frame=false&no-bg=false&margin-w=5"  />
+<img  src="https://github-profile-trophy.vercel.app/?username=ankitjha2311&theme=onedark&no-frame=false&no-bg=truee&margin-w=5"  />
 </p>
 
