@@ -6,7 +6,7 @@
 </p>
  
 <h1 align="center">Hi, I'm Ankit RAJ</h1>
-<h3 align="center">I am a Blockchain Developer and Data Scientist from India, Bihar</h3>
+<h3 align="center">I am a Blockchain Developer and ML Engineer from India, Bihar</h3>
 
 
 <p align="center">
