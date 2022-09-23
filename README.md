@@ -104,7 +104,7 @@ This guide is not intended to teach you Solidity from the ground up, but to help
 
 ## Table of contents
 
-- [Solidity Cheatsheet and Best practices](#solidity-cheatsheet-and-best-practices)
+- [Solidity Cheatsheet](#solidity-cheatsheet-and-best-practices)
   * [Motivation](#motivation)
   * [Table of contents](#table-of-contents)
   * [Version pragma](#version-pragma)
