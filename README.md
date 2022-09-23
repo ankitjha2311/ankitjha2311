@@ -91,7 +91,7 @@
 </details>
 <details align="center">
 
- <summary ><h2 > :sunglasses: Solidity Cheatsheet and Best practices :sunglasses: </h2></summary>
+ <summary ><h2 > :sunglasses: Solidity Cheatsheet :sunglasses: </h2></summary>
 
 ## Motivation
 
@@ -104,7 +104,7 @@ This guide is not intended to teach you Solidity from the ground up, but to help
 
 ## Table of contents
 
-- [Solidity Cheatsheet](#solidity-cheatsheet-and-best-practices)
+- [Solidity Cheatsheet](#solidity-cheatsheet)
   * [Motivation](#motivation)
   * [Table of contents](#table-of-contents)
   * [Version pragma](#version-pragma)
