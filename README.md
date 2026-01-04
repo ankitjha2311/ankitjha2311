@@ -1,8 +1,8 @@
 
 <p  align="center">
-<img  src="https://github.com/ankitjha2311/ankitjha2311/blob/main/Ai.gif" width="250" height="250" />
+
 <img  src="https://github.com/ankitjha2311/ankitjha2311/blob/main/avatar-removebg-preview.png" width="250" height="250" />
-<img src="https://github.com/ankitjha2311/ankitjha2311/blob/main/transBlockch.gif" width="250" height="250" />
+
 </p>
  
 <h1 align="center">Hi, I'm Ankit RAJ</h1>
