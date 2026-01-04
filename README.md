@@ -6,7 +6,7 @@
 </p>
  
 <h1 align="center">Hi, I'm Ankit RAJ</h1>
-<h3 align="center">PhD Researcher in Federated Learning, Robotics, Quantum Computing & Reinforcement Learning | Auroville, Tamil Nadu, India</h3>
+<h3 align="center">PhD Researcher in Federated Learning, Robotics, Quantum Computing & Reinforcement Learning | India</h3>
 
 <p align="center">
 <a href="https://linkedin.com/in/ankit-rudra-ashok-jha" target="blank"><img  src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
